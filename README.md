@@ -1,6 +1,6 @@
 # Onepoket
 To run this server, make sure you have Node.js installed on your system. Then, follow these steps:
-
+Use npm init -y is used to initialize a new Node.js project , create a package.json and get node_modules file with default values without any user interaction.
 Save the above code in a file, e.g., index.js.
 Open the terminal or command prompt and navigate to the directory containing index.js.
 Run the following command to install the required dependencies (Express):
